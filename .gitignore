@@ -1,0 +1,5 @@
+*.joblib
+*.pth
+img/
+src/pipeline.ipynb
+__pycache__/
